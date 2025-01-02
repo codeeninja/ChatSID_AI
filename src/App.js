@@ -79,7 +79,7 @@ function App() {
         </button>
       </div>
       <footer className="footer">
-        <p>Made with love in India. All rights reserved 2025-2026.</p>
+        <p>Made with love❤️ in India. All rights reserved 2025-2026.</p>
       </footer>
     </div>
   );
